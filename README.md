@@ -17,7 +17,7 @@ I'm currently into Web Development 🕸️ and working as Backend Developer 🤓
 - 🛠 &nbsp; I’m currently working with Java, Spring, Java core <br /> 
 - 🚀 &nbsp; I’m currently learning Full Stack Development. I also work with react from time to time
 - 💬 &nbsp; Ask me about anything [here](https://www.facebook.com/PhungQuocDinh/)! I am happy to help.
-- 📫 &nbsp; How to reach me: pad1997@gmail.com.
+- 📫 &nbsp; How to reach me: pqd1997@gmail.com.
 - 📝 &nbsp; Checkout my [Resume](https://www.facebook.com/PhungQuocDinh/).
 
 ### My Absolute Favorites:
