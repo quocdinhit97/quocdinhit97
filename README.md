@@ -11,6 +11,7 @@
 I'm currently into Web Development 🕸️ and working as Backend Developer 🤓. The language I use is java and spring framework. I love to explore new technologies and leverage them to solve real-life problems ✨.
 
 <img align="right" height="250" width="375" alt="" src="./coder.gif" />
+
 ### Talking about Personal Stuffs:
 
 - 🛠 &nbsp; I’m currently working with Java, Spring, Java core <br /> 
